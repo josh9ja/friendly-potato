@@ -1,0 +1,2 @@
+# friendly-potato
+First projecy
